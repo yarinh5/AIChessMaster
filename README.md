@@ -93,6 +93,3 @@ New board:
 - **More Advanced Heuristics**: Improve the board evaluation by considering advanced chess strategies such as control of the center, king safety, etc.
 - **Undo/Redo Functionality**: Add ability to undo or redo moves.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
